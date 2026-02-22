@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LogicLibrary1/LogicLibrary1.csproj" />
+  <Project Path="QueueingSystem1/QueueingSystem1.csproj" />
+  <Project Path="TestProject1/TestProject1.csproj" />
+</Solution>

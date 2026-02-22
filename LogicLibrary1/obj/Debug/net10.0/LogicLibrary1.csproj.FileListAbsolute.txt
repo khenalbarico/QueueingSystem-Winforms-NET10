@@ -1,0 +1,15 @@
+C:\Users\Albarico\source\repos\Peter3\QueueingSystem1\LogicLibrary1\bin\Debug\net10.0\LogicLibrary1.deps.json
+C:\Users\Albarico\source\repos\Peter3\QueueingSystem1\LogicLibrary1\bin\Debug\net10.0\LogicLibrary1.dll
+C:\Users\Albarico\source\repos\Peter3\QueueingSystem1\LogicLibrary1\bin\Debug\net10.0\LogicLibrary1.pdb
+C:\Users\Albarico\source\repos\Peter3\QueueingSystem1\LogicLibrary1\obj\Debug\net10.0\LogicLibrary1.csproj.AssemblyReference.cache
+C:\Users\Albarico\source\repos\Peter3\QueueingSystem1\LogicLibrary1\obj\Debug\net10.0\LogicLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Albarico\source\repos\Peter3\QueueingSystem1\LogicLibrary1\obj\Debug\net10.0\LogicLibrary1.AssemblyInfoInputs.cache
+C:\Users\Albarico\source\repos\Peter3\QueueingSystem1\LogicLibrary1\obj\Debug\net10.0\LogicLibrary1.AssemblyInfo.cs
+C:\Users\Albarico\source\repos\Peter3\QueueingSystem1\LogicLibrary1\obj\Debug\net10.0\LogicLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Albarico\source\repos\Peter3\QueueingSystem1\LogicLibrary1\obj\Debug\net10.0\LogicLibrary1.dll
+C:\Users\Albarico\source\repos\Peter3\QueueingSystem1\LogicLibrary1\obj\Debug\net10.0\refint\LogicLibrary1.dll
+C:\Users\Albarico\source\repos\Peter3\QueueingSystem1\LogicLibrary1\obj\Debug\net10.0\LogicLibrary1.pdb
+C:\Users\Albarico\source\repos\Peter3\QueueingSystem1\LogicLibrary1\obj\Debug\net10.0\ref\LogicLibrary1.dll
+C:\Users\Albarico\source\repos\Peter3\QueueingSystem1\LogicLibrary1\bin\Debug\net10.0\QueueDatabase.xlsx
+C:\Users\Albarico\source\repos\Peter3\QueueingSystem1\LogicLibrary1\bin\Debug\net10.0\TeachersDatabase.xlsx
+C:\Users\Albarico\source\repos\Peter3\QueueingSystem1\LogicLibrary1\bin\Debug\net10.0\UsersDatabase.xlsx
